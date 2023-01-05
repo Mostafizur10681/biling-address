@@ -155,7 +155,7 @@ const Address = () => {
                 id="fax"
               />
             </div>
-            <button type="submit" class="btn btn-primary d-block">
+            <button type="submit" class="btn btn-primary btn-block">
               Submit
             </button>
           </form>
@@ -318,7 +318,7 @@ const Address = () => {
                 id="fax"
               />
             </div>
-            <button type="submit" class="btn btn-primary d-block">
+            <button type="submit" class="btn btn-primary">
               Submit
             </button>
           </form>

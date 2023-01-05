@@ -1,0 +1,69 @@
+[
+  {
+    "country_id": "1",
+    "sortname": "BD",
+    "country_name": "Bangladesh",
+    "states": [
+      { "state_id": "1", "state_name": "Barisal", "country_id": "1" },
+      {
+        "state_id": "346",
+        "state_name": "Chittagong Division",
+        "country_id": "18"
+      },
+      { "state_id": "2", "state_name": "Dhaka", "country_id": "1" },
+      { "state_id": "3", "state_name": "Khulna", "country_id": "1" },
+      { "state_id": "4", "state_name": "Rajshahi", "country_id": "1" },
+      { "state_id": "5", "state_name": "Rangpur", "country_id": "1" },
+      { "state_id": "6", "state_name": "Maimansingh", "country_id": "1" },
+      { "state_id": "7", "state_name": "Sylhet", "country_id": "1" },
+
+      { "state_id": "355", "state_name": "Habiganj", "country_id": "18" },
+      { "state_id": "356", "state_name": "Jaipur Hat", "country_id": "18" },
+      { "state_id": "357", "state_name": "Jamalpur", "country_id": "18" },
+      { "state_id": "358", "state_name": "Jessor", "country_id": "18" },
+      { "state_id": "359", "state_name": "Jhalakati", "country_id": "18" },
+      { "state_id": "360", "state_name": "Jhanaydah", "country_id": "18" },
+      { "state_id": "361", "state_name": "Khagrachhari", "country_id": "18" },
+
+      { "state_id": "363", "state_name": "Kishorganj", "country_id": "18" },
+      { "state_id": "364", "state_name": "Koks Bazar", "country_id": "18" },
+      { "state_id": "365", "state_name": "Komilla", "country_id": "18" },
+      { "state_id": "366", "state_name": "Kurigram", "country_id": "18" },
+      { "state_id": "367", "state_name": "Kushtiya", "country_id": "18" },
+      { "state_id": "368", "state_name": "Lakshmipur", "country_id": "18" },
+      { "state_id": "369", "state_name": "Lalmanir Hat", "country_id": "18" },
+      { "state_id": "370", "state_name": "Madaripur", "country_id": "18" },
+      { "state_id": "371", "state_name": "Magura", "country_id": "18" },
+
+      { "state_id": "373", "state_name": "Manikganj", "country_id": "18" },
+      { "state_id": "374", "state_name": "Maulvi Bazar", "country_id": "18" },
+      { "state_id": "375", "state_name": "Meherpur", "country_id": "18" },
+      { "state_id": "376", "state_name": "Munshiganj", "country_id": "18" },
+      { "state_id": "377", "state_name": "Naral", "country_id": "18" },
+      { "state_id": "378", "state_name": "Narayanganj", "country_id": "18" },
+      { "state_id": "379", "state_name": "Narsingdi", "country_id": "18" },
+      { "state_id": "380", "state_name": "Nator", "country_id": "18" },
+      { "state_id": "381", "state_name": "Naugaon", "country_id": "18" },
+      { "state_id": "382", "state_name": "Nawabganj", "country_id": "18" },
+      { "state_id": "383", "state_name": "Netrakona", "country_id": "18" },
+      { "state_id": "384", "state_name": "Nilphamari", "country_id": "18" },
+      { "state_id": "385", "state_name": "Noakhali", "country_id": "18" },
+      { "state_id": "386", "state_name": "Pabna", "country_id": "18" },
+      { "state_id": "387", "state_name": "Panchagarh", "country_id": "18" },
+      { "state_id": "388", "state_name": "Patuakhali", "country_id": "18" },
+      { "state_id": "389", "state_name": "Pirojpur", "country_id": "18" },
+      { "state_id": "390", "state_name": "Rajbari", "country_id": "18" },
+
+      { "state_id": "392", "state_name": "Rangamati", "country_id": "18" },
+
+      { "state_id": "394", "state_name": "Satkhira", "country_id": "18" },
+      { "state_id": "395", "state_name": "Shariatpur", "country_id": "18" },
+      { "state_id": "396", "state_name": "Sherpur", "country_id": "18" },
+
+      { "state_id": "398", "state_name": "Sirajganj", "country_id": "18" },
+      { "state_id": "399", "state_name": "Sunamganj", "country_id": "18" },
+      { "state_id": "400", "state_name": "Tangayal", "country_id": "18" },
+      { "state_id": "401", "state_name": "Thakurgaon", "country_id": "18" }
+    ]
+  }
+]

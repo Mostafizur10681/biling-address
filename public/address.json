@@ -1,0 +1,634 @@
+{
+  "Countries": [
+    {
+      "CountryName": "Bangladesh",
+      "_id": "1",
+      "states": [
+        {
+          "stateName": "Barisal",
+          "stateId": "10",
+          "zila": [
+            {
+              "zilaName": "Patuakhali",
+              "zilaId": "100",
+              "thana": [
+                {
+                  "thanaName": "Bauphal Upazila",
+                  "thanaId": "1000",
+                  "union": [
+                    {
+                      "unionName": "Adabria",
+                      "unionId": "10000",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Adabria"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Bauphal",
+                      "unionId": "10001",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Bauphal"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Boga",
+                      "unionId": "10002",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Boga"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Das Para",
+                      "unionId": "10003",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Das Para"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Dhulia",
+                      "unionId": "10004",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Dhulia"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kachipara",
+                      "unionId": "10005",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Kachipara"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kachipara",
+                      "unionId": "10006",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Kachipara"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kalaiya",
+                      "unionId": "10007",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Kalaiya"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kalishuri",
+                      "unionId": "10008",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Kalishuri"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kanakdia",
+                      "unionId": "10009",
+                      "zipcode": "8620",
+                      "village": [
+                        {
+                          "villageName": "Kanakdia"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "thanaName": "Galachipa Upazila",
+                  "thanaId": "1001",
+                  "union": [
+                    {
+                      "unionName": "Amkhola",
+                      "unionId": "10010",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Amkhola"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Bakulbaria",
+                      "unionId": "10011",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Bakulbaria"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Char Biswas",
+                      "unionId": "10012",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Char Biswas"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Char Kajol",
+                      "unionId": "10013",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Char Kajol"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Chiknikandi",
+                      "unionId": "10014",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Chiknikandi"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Dakua",
+                      "unionId": "10015",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Dakua"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Galachipa",
+                      "unionId": "10016",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Galachipa"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Gazalia",
+                      "unionId": "10017",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Gazalia"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Golkhali",
+                      "unionId": "10018",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Golkhali"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kalagachhia",
+                      "unionId": "10019",
+                      "zipcode": "8640",
+                      "village": [
+                        {
+                          "villageName": "Kalagachhia"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "zilaName": "Barishal District ",
+              "zilaId": "101",
+              "thana": [
+                {
+                  "thanaName": "Babuganj ",
+                  "thanaId": "1010",
+                  "union": [
+                    {
+                      "unionName": "Agarpur",
+                      "unionId": "10100",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Agarpur"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Chandpasha",
+                      "unionId": "10101",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Chandpasha"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Dehergati",
+                      "unionId": "10102",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Dehergati"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kedarpur",
+                      "unionId": "10103",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Kedarpur"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Madhabpasha",
+                      "unionId": "10104",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Madhabpasha"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Rahmatpur",
+                      "unionId": "10105",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Rahmatpur"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "thanaName": "Bakerganj",
+                  "thanaId": "1011",
+                  "union": [
+                    {
+                      "unionName": "Bhoypasha",
+                      "unionId": "10110",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Bhoypasha"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Charadi",
+                      "unionId": "10111",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Charadi"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Charamaddi",
+                      "unionId": "10112",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Charamaddi"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Darial",
+                      "unionId": "10113",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Darial"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Dudhal",
+                      "unionId": "10114",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Dudhal"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Durgapasha",
+                      "unionId": "10115",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Durgapasha"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Faridpur",
+                      "unionId": "10116",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Faridpur"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Garuria",
+                      "unionId": "10117",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Garuria"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kabai",
+                      "unionId": "10118",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Kabai"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kalaskathi",
+                      "unionId": "10119",
+                      "zipcode": "841286",
+                      "village": [
+                        {
+                          "villageName": "Kalaskathi"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stateName": "Dhaka",
+          "stateId": "11",
+          "zila": [
+            {
+              "zilaName": "Dhaka",
+              "zilaId": "110",
+              "thana": [
+                {
+                  "thanaName": "Dhamrai Upazila",
+                  "thanaId": "1100",
+                  "union": [
+                    {
+                      "unionName": "Chauhat",
+                      "unionId": "11000",
+                      "zipcode": "1350",
+                      "village": [
+                        {
+                          "villageName": "Chauhat"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Amta",
+                      "unionId": "11001",
+                      "zipcode": "1350",
+                      "village": [
+                        {
+                          "villageName": "Amta"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Balia ",
+                      "unionId": "11002",
+                      "zipcode": "1350",
+                      "village": [
+                        {
+                          "villageName": "Balia "
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Jadabpur ",
+                      "unionId": "11003",
+                      "zipcode": "1350",
+                      "village": [
+                        {
+                          "villageName": "Jadabpur "
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Baisakanda ",
+                      "unionId": "11004",
+                      "zipcode": "1350",
+                      "village": [
+                        {
+                          "villageName": "Baisakanda "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "thanaName": "Keraniganj Upazila",
+                  "thanaId": "1101",
+                  "union": [
+                    {
+                      "unionName": "Aganagar ",
+                      "unionId": "11010",
+                      "zipcode": "1310",
+                      "village": [
+                        {
+                          "villageName": "Aganagar "
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kalatia ",
+                      "unionId": "11011",
+                      "zipcode": "1310",
+                      "village": [
+                        {
+                          "villageName": "Kalatia "
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kalindi",
+                      "unionId": "11012",
+                      "zipcode": "1310",
+                      "village": [
+                        {
+                          "villageName": "Kalindi"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Konda",
+                      "unionId": "11013",
+                      "zipcode": "1310",
+                      "village": [
+                        {
+                          "villageName": "Konda"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "zilaName": "Gazipur",
+              "zilaId": "111",
+              "thana": [
+                {
+                  "thanaName": "Gazipur Sadar Upazila ",
+                  "thanaId": "1110",
+                  "union": [
+                    {
+                      "unionName": "Agarpur",
+                      "unionId": "11100",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Agarpur"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Chandpasha",
+                      "unionId": "11101",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Chandpasha"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Dehergati",
+                      "unionId": "11102",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Dehergati"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Kedarpur",
+                      "unionId": "11103",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Kedarpur"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Madhabpasha",
+                      "unionId": "11104",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Madhabpasha"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Rahmatpur",
+                      "unionId": "11105",
+                      "zipcode": "8210",
+                      "village": [
+                        {
+                          "villageName": "Rahmatpur"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "thanaName": "kaliganj upazila",
+                  "thanaId": "1111",
+                  "union": [
+                    {
+                      "unionName": "Roygram ",
+                      "unionId": "11110",
+                      "zipcode": "1720",
+                      "village": [
+                        {
+                          "villageName": "Roygram"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Simla Rokonpur",
+                      "unionId": "11111",
+                      "zipcode": "1720",
+                      "village": [
+                        {
+                          "villageName": "Simla Rokonpur"
+                        }
+                      ]
+                    },
+                    {
+                      "unionName": "Sundarpur Durgapur",
+                      "unionId": "11112",
+                      "zipcode": "1720",
+                      "village": [
+                        {
+                          "villageName": "Sundarpur Durgapur"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
